@@ -2,25 +2,25 @@ const slideData = [
 {
   index: 0,
   headline: 'you are the light of my life',
-  button: 'love',
+  button: 'I',
   src: '../img/1.JPG' },
 
 {
   index: 1,
   headline: 'you are the light of my life',
-  button: 'you',
+  button: 'LOVE',
   src: '../img/2.JPG' },
 
 {
   index: 2,
   headline: 'you are the light of my life',
-  button: 'love',
+  button: 'YOU',
   src: '../img/3.JPG' },
 
 {
   index: 3,
   headline: 'you are the light of my life',
-  button: 'you',
+  button: 'FOREVER',
   src: '../img/4.JPG' }];
 
 

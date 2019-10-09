@@ -1,25 +1,25 @@
 const slideData = [
 {
   index: 0,
-  headline: '好想',
+  headline: 'you are the light of my life',
   button: 'love',
   src: '../img/1.JPG' },
 
 {
   index: 1,
-  headline: '好想',
+  headline: 'you are the light of my life',
   button: 'you',
   src: '../img/2.JPG' },
 
 {
   index: 2,
-  headline: '和你',
+  headline: 'you are the light of my life',
   button: 'love',
   src: '../img/3.JPG' },
 
 {
   index: 3,
-  headline: '在一起',
+  headline: 'you are the light of my life',
   button: 'you',
   src: '../img/4.JPG' }];
 
