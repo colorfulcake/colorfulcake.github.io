@@ -2,7 +2,11 @@
 <head>
     <title>Title</title>
 </head>
-<body  background="/images/2.JPG">
+<<<<<<< HEAD
+<body  background="/images/4.JPG">
+=======
+<body  background="/images/3.JPG">
+>>>>>>> 2e171cbd5676e793fb3486d6d5617fab03608126
 <h1></h1>
     <a href="index.html">返回</a>
 </body>
